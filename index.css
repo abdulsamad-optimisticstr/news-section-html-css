@@ -1,8 +1,9 @@
 body{
-    background: aqua;
+    background: url(background.jpg) no-repeat top right ;
 }
-
 .container{
+    margin-top: 10%;
+    margin-left: 48%;        
     background: #ffa55b;;
     overflow:hidden;
     width:200px;
